@@ -1,0 +1,170 @@
+@media screen and (min-width: 240px) and (max-width:600px){
+    body{
+        background:rgb(3, 120, 136);
+    }
+    #parrafo-1{
+        width:auto;
+        display: block;
+        background:rgb(3, 11, 136);
+        color:white;
+        position: relative;
+        top:30px;
+    }
+    .titulo-1{
+        width:auto;
+        display: inline-block;
+        background:rgb(206, 194, 28);
+        color:white;
+        font-family:sans-serif;
+    }
+    #video-1{
+        width:auto;
+        position: relative;
+        top:-40px;
+    }
+    #creditos-1{
+        width:auto;
+        position: relative;
+        top:-30px;
+    }
+    #img-1{
+        width:150px;
+        position: relative;
+        top:40px;
+        left:30%;
+    }
+    #img-2{
+        width:150px;
+        position: relative;
+        left:30%;
+        top10px;
+    }
+    #video-2{
+        width:auto;
+        position: relative;
+        top:-78px;
+    }
+    #creditos-2{
+        position: relative;
+        top:-65px;
+    }
+}
+/*#parrafo-1{
+    width:290px;
+    display: block;
+    background:rgb(3, 11, 136);
+    color:white;
+    position: relative;
+    top:30px;
+}
+.titulo-1{
+    width:290px;
+    display: inline-block;
+    background:rgb(206, 194, 28);
+    color:white;
+    font-family:sans-serif;
+}
+#video-1{
+    width:auto;
+    position: relative;
+    top:-40px;
+}
+#creditos-1{
+    width:auto;
+    position: relative;
+    top:-30px;
+}
+#img-video-1-creditos-1{
+    width:150px;
+    position: relative;
+    left:30%;
+    top:40px;
+}
+#img-2-video-2-creditos-2{
+    width:150px;
+    position: relative;
+    left:30%;
+}
+#video-2{
+    width:auto;
+    position: relative;
+    top:-78px;
+}
+#creditos-2{
+    top:25px;
+}
+#img-3-video-3-creditos-3{
+    width:150px;
+    position:relative;
+    left:30%;
+    top:45px;
+}
+#video-3{
+    width:auto;
+    position: relative;
+    top:-115px;
+}
+#creditos-3{
+    width:auto;
+    position: relative;
+    top:-105px;
+}*/
+@media screen and (min-width:600px) and (max-width:2000px){
+    body{
+        background:rgb(3, 105, 136);
+    }
+    #parrafo-1{
+        width:575px;
+        display: block;
+        background:rgb(3, 11, 136);
+        color:white;
+        position: relative;
+        top:30px;
+        left:30%;
+    }
+    .titulo-1{
+        width:300px;
+        display: inline-block;
+        background:rgb(206, 194, 28);
+        color:white;
+        font-family:sans-serif;
+        position: relative;
+        left:40%;
+    }
+    #video-1{
+        width:85px;
+        position: relative;
+        top:-60px;
+        left:70%;
+    }
+    #creditos-1{
+        width:100px;
+        position: relative;
+        top:10px;
+        left:70%
+    }
+    #img-1{
+        width:auto;
+        position: relative;
+        left: 30%;
+        top:75px;
+    }
+    #img-2{
+        width:auto;
+        position: relative;
+        left:30%;
+        top:80px;
+    }
+    #video-2{
+        width:85px;
+        position: relative;
+        top:-65px;
+        left: 70%;
+    }
+    #creditos-2{
+        width:100px;
+        position: relative;
+        top:10px;
+        left:70%;
+    }
+}
